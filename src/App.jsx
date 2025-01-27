@@ -1,8 +1,9 @@
+import './App.css';
 import Device from "./Components/Device";
 
 function App() {
   function RenderTotalElectricLoad() {
-    // Returns the total load of all the devices in the house
+    // Renders the total load of all the devices in the house
   }
 
   return (
